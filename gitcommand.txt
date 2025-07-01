@@ -22,3 +22,13 @@ git checkout main
 Merge your feature branch into main:
 Switch to main:
 git merge feature-branch
+
+
+Add new file to existing repo
+git status
+git add newfile.txt
+git commit -m "Add newfile.txt with initial data"
+git push
+=======================
+git branch day2
+git checkout day2
